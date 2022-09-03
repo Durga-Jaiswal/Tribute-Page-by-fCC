@@ -1,0 +1,50 @@
+#main{
+    background-color: Azure;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid grey;
+    font-family: monospace;
+  }
+  #title{
+    
+  text-align: center;
+  
+  
+  }
+  
+  #img-div{
+    display: block;
+  
+    border: 1px solid grey;
+    background: white;
+    /*margin-left : 50px;
+    margin-right: 50px;*/
+   
+    max-width: 100%;
+  }
+  #img-caption{
+    padding: 10px;
+    color: darkslategrey;
+    text-align: center;
+  }
+  h3 {
+    text-align: center;
+  }
+  ul{
+    line-height:2;
+  }
+  li{
+    margin-left:20%;
+    margin-right: 20%;
+    font-size: 1rem;
+  }
+  #quote{
+    text-decoration: italics; 
+    padding: 50px;
+    text-align: center;
+  }
+  #tribute-info{
+    text-align: center;
+    font-weight: 900;
+  
+  }
